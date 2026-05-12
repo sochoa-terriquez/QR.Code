@@ -1,0 +1,1 @@
+This project uses Python to create a QR Code Generator web app. Users can enter text or a URL, and the program generates and displays a QR code using a Streamlit interface.  Language used: Python Libraries used: streamlit, qrcode, io
